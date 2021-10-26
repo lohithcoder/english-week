@@ -1,0 +1,23 @@
+body{
+background-image: url(./download\ \(1\).jfif);
+text-align: center;
+background-size:cover ;
+
+padding: 0;
+margin: 0;
+background-repeat: no-repeat;
+
+height: 634px;
+width: 1320px;
+
+}
+div{
+   margin-left: 40px;
+   border-ridge: 100px;
+   border: 10px ridge black;
+   width: 220s;
+   background-image: url(./MicrosoftTeams-image.png);
+   color: #ff0000;
+   font-size: 150%;
+   font-weight: 2000;
+}
